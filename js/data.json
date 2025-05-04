@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Responsive Web Design",
+    "description": "A modern, mobile-friendly website built with HTML5, CSS3, and JavaScript.",
+    "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80",
+    "tags": ["HTML5", "CSS3", "JavaScript", "Responsive"]
+  },
+  {
+    "id": 2,
+    "title": "Data Visualization Dashboard",
+    "description": "An interactive dashboard for visualizing complex datasets using D3.js.",
+    "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "tags": ["D3.js", "Data Visualization", "JavaScript", "Dashboard"]
+  },
+  {
+    "id": 3,
+    "title": "Cybersecurity Analyzer",
+    "description": "A tool for scanning and reporting website security vulnerabilities.",
+    "thumbnail": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Cybersecurity", "Python", "Security Analysis"]
+  },
+  {
+    "id": 4,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio to showcase web development and design skills.",
+    "thumbnail": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Portfolio", "HTML5", "CSS3", "Responsive"]
+  },
+  {
+    "id": 5,
+    "title": "E-commerce Platform",
+    "description": "A scalable online store with secure payment integration.",
+    "thumbnail": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80",
+    "tags": ["E-commerce", "Payments", "JavaScript", "Security"]
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning App",
+    "description": "A web app that predicts trends using machine learning algorithms.",
+    "thumbnail": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Machine Learning", "Python", "Web App"]
+  },
+  {
+    "id": 7,
+    "title": "Blog Platform",
+    "description": "A full-featured blogging platform with markdown support.",
+    "thumbnail": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Blog", "Markdown", "Node.js"]
+  },
+  {
+    "id": 8,
+    "title": "Weather App",
+    "description": "A real-time weather forecasting app with geolocation features.",
+    "thumbnail": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Weather", "API", "JavaScript", "Geolocation"]
+  },
+  {
+    "id": 9,
+    "title": "Task Manager",
+    "description": "A productivity tool for managing daily tasks and to-dos.",
+    "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=thumb&w=300&q=80",
+    "full": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "tags": ["Productivity", "To-Do", "Web App"]
+  }
+] 
