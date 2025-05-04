@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Projects - Deepkshi Portfolio">
+  <title>Projects | Deepkshi Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <button class="sidebar-toggle" aria-label="Toggle navigation">&#9776;</button>
+    <div class="sidebar-content">
+      <img src="img/deepkshi.jpg" alt="Deepkshi avatar" class="avatar sidebar-avatar">
+      <h1 class="site-title">Deepkshi</h1>
+      <div class="site-subtitle">Web Developer<br>Data Scientist<br>Cybersecurity Enthusiast</div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="resume.html">Resume</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="sidebar-social">
+        <a href="https://www.linkedin.com/in/example-profile" target="_blank" class="social-icon" aria-label="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" /></a>
+        <a href="https://github.com/example-profile" target="_blank" class="social-icon" aria-label="GitHub"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" /></a>
+      </div>
+    </div>
+  </aside>
+  <main class="main-content">
+    <section class="card-section animate-on-scroll">
+      <h2>My Projects</h2>
+      <p style="max-width:700px;margin:0 auto 2.5rem auto;text-align:center;">Explore some of my featured work below. The gallery and carousel are interactive and showcase my best projects in web development, data science, and cybersecurity. Click on any project for more details!</p>
+      <section id="gallery" class="card-section card">
+        <h3>Project Gallery</h3>
+        <p class="section-intro">
+          A selection of my recent work in web development, data science, and cybersecurity. Click any project to see more details.
+        </p>
+        <div id="gallery-content"></div>
+        <!-- 3x3 image gallery will be rendered here by JavaScript -->
+      </section>
+      <section id="carousel" class="card-section card">
+        <h3>Featured Projects</h3>
+        <p class="section-intro">
+          Explore my top projects, handpicked to showcase my skills and passion for technology.
+        </p>
+        <div id="carousel-content"></div>
+        <!-- Image carousel will be rendered here by JavaScript -->
+      </section>
+    </section>
+    <footer>
+      <div class="container">
+        <p>&copy; 2025 Deepkshi. All rights reserved.</p>
+      </div>
+    </footer>
+  </main>
+  <script src="js/gallery.js"></script>
+  <script src="js/carousel.js"></script>
+  <script src="js/scroll-animate.js"></script>
+</body>
+</html> 
