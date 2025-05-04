@@ -1,7 +1,7 @@
 # Website Testing and Validation Report
 
 ## Live URL (optional)
-If hosted online, access the site here: [https://your-github-username.github.io/your-repo-name/](https://your-github-username.github.io/your-repo-name/)
+If hosted online, access the site here: [https://csd24fnv.github.io/personal-website/index.html)
 
 ---
 
